@@ -18,7 +18,7 @@ public class JavaLibs5026201150 {
 		int umur1 = Integer.parseInt(umur);
 		int umur2 = umur1+1;
 		jam = Double.parseDouble(jam1);
-		jam2 = (jam)+1.5;
+		jam2 = (jam)-1.5;
 		
 
 		
@@ -26,7 +26,7 @@ public class JavaLibs5026201150 {
 		"\nAku seneng banget punya teman baru, apa kamu juga begitu xixixi."+
 		"\nOh iya umur kamu"+" "+umur1+" "+"tahun ya, btw aku"+" "+umur2+" "+"tahun, setahun lebih tua hehe. Gimana rasanya tinggal di"+" "+domisili+"?"+ 
 		"\npasti enak ya. Btw kamu mirip banget sama aku sering dibilang"+" "+deskripsi+" "+"padahal engga,"+ 
- 		"\nbelum kenal aja itu sebenarnya wkwkwk. Wah kalau bosan kamu suka"+ " " +kegiatan+" "+"HAHAHA,"+ 
+ 		"\nbelum kenal aja itu sebenarnya wkwkwk. Wah kalau bosan kamu suka"+ " " +kegiatan+" "+"juga HAHAHA,"+ 
  		"\ntapi kamu lama banget sampe"+" "+jam1+" "+"jam sehari, aku cuma"+" "+jam2+" "+"jam biasanya."+ 
 		"\nEh tadi kamu mention kalo suka"+" "+film+" "+"ya, sumpahh aku juga lagi mantengin itu si dan suka bangettt,"+ 
 		"\ntapi karakter favorit aku bukan"+" "+karakter+" "+", ada dee yang lain,"+  
